@@ -52,7 +52,7 @@ Instagram-Profile-Fetcher/
 ---
 
 ## Contributing
-Feel free to open issues or submit pull requests if you want to contribute to this project. I welcome any contributions and suggestions to improve this plagiarism detection tool.
+Feel free to open issues or submit pull requests if you want to contribute to this project. I welcome any contributions and suggestions to improve this.
 
 ---
 
